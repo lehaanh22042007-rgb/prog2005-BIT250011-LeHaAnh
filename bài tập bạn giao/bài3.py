@@ -1,0 +1,11 @@
+a = "13214534654321345678907"
+print(a.count("1"))
+print(a.count("2"))
+print(a.count("3"))
+print(a.count("4"))
+print(a.count("5"))
+print(a.count("6"))
+print(a.count("7"))
+print(a.count("8"))
+print(a.count("9"))
+print(a.count("0"))
